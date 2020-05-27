@@ -1,5 +1,3 @@
-# Note to self: remove the curly brackets!!!
-
 # _{Application Name}_
 
 #### _{Brief description of application}, {Date of current version}_
